@@ -1,6 +1,6 @@
 # Local and Global Bagging of Anchor-graphs for IMC
 
-The demo code of Incomplete Multi-view Clustering via Local and Global Bagging of Anchor Graphs.
+The demo code of Incomplete multi-view clustering via local and global bagging of anchor graphs.
 
 <img src="./docs/framework.jpg" alt="Overview" width="80%">
 
