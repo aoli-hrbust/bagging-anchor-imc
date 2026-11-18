@@ -1,7 +1,7 @@
 ## Citation
 
-> Ao Li, Haoyue Xu, Cong Feng, Hailu Yang, Shibiao Xu. Incomplete multi-view clustering via local global bagging of anchor graphs. Expert Systems with Applications, page 123402, 2024.
-> 
+Ao Li, Haoyue Xu, Cong Feng, Hailu Yang, Shibiao Xu. Incomplete multi-view clustering via local global bagging of anchor graphs. Expert Systems with Applications, page 123402, 2024.
+
 # Local and Global Bagging of Anchor-graphs for IMC
 
 The demo code of Incomplete multi-view clustering via local and global bagging of anchor graphs.
